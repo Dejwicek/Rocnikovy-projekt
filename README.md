@@ -4,6 +4,12 @@ Spaceshooter
 V pololetí jsem si vybral že zkusím udělat Spaceshootera.
 ## Aktuální stav 
 Momentálně mám vytovřený svůj model rakety, enemy rakety a projektilů, které z raket střílí. Dále jsem udělal ovládání rakety, pohyb pozadí, pohyb a let projektilů.
+## Modely
+![image](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/0ac9d15e-a1e2-4905-808a-56bdf6cb5c2b)
+![image](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/565a368a-b5b5-4877-be3d-92f45c6dd46e)
+![image](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/dde3a995-8e07-4f2f-8a51-a3dfaf7ec22f)
+
+Všechny modely jsou originálně vytvořené mnou
 ## Vysvětlivky
 Movement naší rakety
 ![1  obrazek](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/ff06679d-92f7-4c29-8acf-6d59cec95be2)
