@@ -20,7 +20,8 @@ Samotná střela a poškození
 ## Vysvětlující video a funkčnost
 https://www.youtube.com/watch?v=dTwBQx8Cts8
 ## Literatura
-videa podle kterých tvořím 
+Videa podle kterých tvořím: 
 https://www.youtube.com/playlist?list=PLkXsRfYOfsE3Ns-LkbokWYEP9GzX0RUE5
-Všechny modely raket a projektilů jsem tvořil zde
+
+Všechny modely raket a projektilů jsem tvořil zde:
 https://www.pixilart.com/draw
