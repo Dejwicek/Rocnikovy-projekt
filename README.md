@@ -1,4 +1,4 @@
-# Rocnikovy-projekt
+# Rocnikovy-projekt první pololetí
 Spaceshooter
 ## Zadání
 V pololetí jsem si vybral že zkusím udělat Spaceshootera.
@@ -25,6 +25,32 @@ Samotná střela a poškození
 ![ship](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/7cd8f35f-fdff-4fc5-b5ba-233539ccd230)
 ## Vysvětlující video a funkčnost
 https://www.youtube.com/watch?v=dTwBQx8Cts8
+## Literatura
+Videa podle kterých tvořím: 
+https://www.youtube.com/playlist?list=PLkXsRfYOfsE3Ns-LkbokWYEP9GzX0RUE5
+
+Všechny modely raket a projektilů jsem tvořil zde:
+https://www.pixilart.com/draw
+
+# Druhé pololetí
+## Zadání
+Do druhého pololetí jsem se rozhodl posunout hru Spaceshooter o pár levelů dál.
+## Aktuální stav
+V druhém pololetí jsem dodělal do hry 3 modely protivníků, funkční start menu, funkční health bar protivníků a naší rakety, nové spawn pointy a lehkou umělou inteligenci na pohyb protivníků.
+## Nové modely
+![pixil-frame-0 1](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/b85934a8-85b9-47ed-b86d-5d236a711d27)
+![pixil-frame-0 (1)](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/7e2124b8-0051-413a-ac22-f9a40ac08a88)
+![ENEMY](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/430fbba7-df67-4f18-9db9-b2270aaf5e2e)
+![pixil-frame-0 (4)](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/18bcc3f6-603e-4148-b86b-654a48969a5c)
+Všechny modely ať už pro protivníky nebo health bar byly vytvořeny mnou.
+## Vysvětlení problematiky a vysvětlující fotografie
+![Snímek obrazovky (524)](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/18d25495-a7cd-4b10-a913-29084c7c4199)
+![Snímek obrazovky (525)](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/eda2f6c2-cd0a-47b6-9f1e-25b0a7673dcd)
+![Snímek obrazovky (526)](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/ff021003-672a-4701-a899-0925bb2345b3)
+![Snímek obrazovky (527)](https://github.com/Dejwicek/Rocnikovy-projekt/assets/154470308/81e02fc8-01b8-4c5e-ad94-413e3295ce9b)
+
+## Ukázka a dovysvětlení v Unity
+https://youtu.be/CFysxbJLcqQ
 ## Literatura
 Videa podle kterých tvořím: 
 https://www.youtube.com/playlist?list=PLkXsRfYOfsE3Ns-LkbokWYEP9GzX0RUE5
